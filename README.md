@@ -1,22 +1,18 @@
-## Hi there 👋
+## Hi 👋 I'm Esther
 
- My name is Esther
+[Esther Akintunde](https://www.linkedin.com/in/esther-akintunde-75b61a265/) is a Detail-oriented and analytical professional Proficient in Power BI, Excel, and SQL with experience in data cleaning, visualization, and insight generation. Passionate about leveraging data to drive business decisions and solve real-world problems. 
 
-I am a Data Analyst
 
 # Mission
 
 
 My mission is to help businesses and organizations growth by making data driven decisions
 
-## Vision
+
+ *👯 I’m looking to collaborate on an Data analytics entry level positions.
 
 
-
-### Connect with me
-
-[Email](mailto:ogunladeesther143@gmail.com)
-
+ *📫 How to reach me: [Email](mailto:ogunladeesther143@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/esther-akintunde-75b61a265/)
 
 
