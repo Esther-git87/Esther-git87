@@ -12,10 +12,12 @@ My mission is to help businesses and organizations growth by making data driven 
 ## Vision
 
 
+
+### Connect with me
+
 [Email](mailto:ogunladeesther143@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/
-esther-akintunde-75b61a265/)
+[LinkedIn](https://www.linkedin.com/in/esther-akintunde-75b61a265/)
 
 
 <!--
