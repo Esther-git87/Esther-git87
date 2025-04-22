@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+ My name is Esther
+
+I am a Data Analyst
+
+#Mission
+
+
+My mission is to help businesses and organizations growth by making data driven decisions
+
+##Vision
+
+
+
 <!--
 **Esther-git87/Esther-git87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Mission
