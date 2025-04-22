@@ -1,3 +1,13 @@
+![banner](https://github.com/Esther-git87/Esther-git87/blob/main/readmebanner.png))
+
+
+
+
+
+
+
+
+
 ## Hi 👋 I'm Esther
 
 [Esther Akintunde](https://www.linkedin.com/in/esther-akintunde-75b61a265/) is a Detail-oriented and analytical professional Proficient in Power BI, Excel, and SQL with experience in data cleaning, visualization, and insight generation. Passionate about leveraging data to drive business decisions and solve real-world problems. 
