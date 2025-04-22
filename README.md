@@ -4,12 +4,12 @@
 
 I am a Data Analyst
 
-#Mission
+# Mission
 
 
 My mission is to help businesses and organizations growth by making data driven decisions
 
-##Vision
+## Vision
 
 
 
